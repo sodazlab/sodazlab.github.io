@@ -1,0 +1,7 @@
+[[CURRENCIES]]
+code = "XAI"           # 1. 토큰 이름 (대문자 추천)
+issuer = "GA4YCIIQGC5MIAK5J2PH2MNZ2WEJNDVATVFFQIKBKKIM56ZXXHILVLOD"            # 2. 발행자(Issuer) 지갑의 공개키(Public Key)
+display_decimals = 2
+name = "xAI Token"       # 3. 토큰의 풀네임
+desc = "xAI Token on Pi Testnet"
+image = "https://github.com/sodazlab/pi-token-metadata/blob/30a53936e3000a297460a80a3383a769bb72a865/tk-4.png"      # 4. 아까 복사한 로고 이미지 주소
